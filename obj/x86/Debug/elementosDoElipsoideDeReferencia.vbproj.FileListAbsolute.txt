@@ -1,0 +1,9 @@
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\bin\Debug\elementosDoElipsoideDeReferencia.exe
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\bin\Debug\elementosDoElipsoideDeReferencia.pdb
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\bin\Debug\elementosDoElipsoideDeReferencia.xml
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\obj\x86\Debug\elementosDoElipsoideDeReferencia.frmElementosDoElipsoide.resources
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\obj\x86\Debug\elementosDoElipsoideDeReferencia.Resources.resources
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\obj\x86\Debug\elementosDoElipsoideDeReferencia.vbproj.GenerateResource.Cache
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\obj\x86\Debug\elementosDoElipsoideDeReferencia.exe
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\obj\x86\Debug\elementosDoElipsoideDeReferencia.xml
+E:\Biblioteca E\CIG\Programacao\Visual Basic\elementosDoElipsoideDeReferencia\elementosDoElipsoideDeReferencia\obj\x86\Debug\elementosDoElipsoideDeReferencia.pdb
